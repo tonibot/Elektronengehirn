@@ -1,5 +1,11 @@
 # Elektronengehirn
 Elektronenhirn (which means electron-brain aka computer) is a simple mastermind clone.
 
-##Installation
+## Installation
 Just clone the source and start the index.html in your preferred browser.
+
+## Future plans
+* I'm working on a electron-app.
+* mutliple skill levels
+* timelimits
+* highscores
